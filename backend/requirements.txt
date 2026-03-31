@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+openai
+pydantic
+python-dotenv
+faiss-cpu
+numpy
+python-multipart
+# Removed langgraph for simplified stability in POC

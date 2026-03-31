@@ -70,5 +70,5 @@ npm run dev -- --port 5176
 
 ---
 
-**Developed with 💜 by Antigravity AI**  
+**Developed with 💜 by Sajid**  
 *v2.0.0 · Production Ready · Swarm Intelligence Platform*
